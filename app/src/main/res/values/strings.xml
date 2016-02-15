@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PopMov</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh" translatable="false">Refresh</string>
+    <string name="title_activity_detail">PopMov Detail</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Label for the location preference [CHAR LIMIT=30] -->
+    <string name="pref_sort_label">Sort Order</string>
+
+    <!-- Key name for storing location in SharedPreferences [CHAR LIMIT=NONE] -->
+    <string name="pref_sort_key" translatable="false">sort</string>
+
+    <!-- Default postal code for location preference [CHAR LIMIT=NONE] -->
+    <string name="pref_sort_default" translatable="false">popularity.desc</string>
+
+    <!-- Label for sort -->
+    <string name="pref_sort_label_popularity_asc">popularity asc</string>
+    <string name="pref_sort_label_popularity_desc">popularity desc</string>
+    <string name="pref_sort_label_release_date_asc">release date asc</string>
+    <string name="pref_sort_label_release_date_desc">release date desc</string>
+    <string name="pref_sort_label_revenue_asc">revenue asc</string>
+    <string name="pref_sort_label_revenue_desc">revenue desc</string>
+    <string name="pref_sort_label_primary_release_date_asc">primary release date asc</string>
+    <string name="pref_sort_label_primary_release_date_desc">primary release date desc</string>
+    <string name="pref_sort_label_original_title_asc">original title asc</string>
+    <string name="pref_sort_label_original_title_desc">original title desc</string>
+    <string name="pref_sort_label_vote_average_asc">vote average asc</string>
+    <string name="pref_sort_label_vote_average_desc">vote average desc</string>
+    <string name="pref_sort_label_vote_count_asc">vote count asc</string>
+    <string name="pref_sort_label_vote_count_desc">vote count desc</string>
+
+    <!-- value for sort -->
+    <string name="pref_sort_popularity_asc">popularity.asc</string>
+    <string name="pref_sort_popularity_desc">popularity.desc</string>
+    <string name="pref_sort_release_date_asc">release_date.asc</string>
+    <string name="pref_sort_release_date_desc">release_date.desc</string>
+    <string name="pref_sort_revenue_asc">revenue.asc</string>
+    <string name="pref_sort_revenue_desc">revenue.desc</string>
+    <string name="pref_sort_primary_release_date_asc">primary_release_date.asc</string>
+    <string name="pref_sort_primary_release_date_desc">primary_release_date.desc</string>
+    <string name="pref_sort_original_title_asc">original_title.asc</string>
+    <string name="pref_sort_original_title_desc">original_title.desc</string>
+    <string name="pref_sort_vote_average_asc">vote_average.asc</string>
+    <string name="pref_sort_vote_average_desc">vote_average.desc</string>
+    <string name="pref_sort_vote_count_asc">vote_count.asc</string>
+    <string name="pref_sort_vote_count_desc">vote_count.desc</string>
+
+</resources>

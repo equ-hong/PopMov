@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="pref_sort_options">
+        <item>@string/pref_sort_label_popularity_asc</item>
+        <item>@string/pref_sort_label_popularity_desc</item>
+        <item>@string/pref_sort_label_release_date_asc</item>
+        <item>@string/pref_sort_label_release_date_desc</item>
+        <item>@string/pref_sort_label_revenue_asc</item>
+        <item>@string/pref_sort_label_revenue_desc</item>
+        <item>@string/pref_sort_label_primary_release_date_asc</item>
+        <item>@string/pref_sort_label_primary_release_date_desc</item>
+        <item>@string/pref_sort_label_original_title_asc</item>
+        <item>@string/pref_sort_label_original_title_desc</item>
+        <item>@string/pref_sort_label_vote_average_asc</item>
+        <item>@string/pref_sort_label_vote_average_desc</item>
+        <item>@string/pref_sort_label_vote_count_asc</item>
+        <item>@string/pref_sort_label_vote_count_desc</item>
+    </string-array>
+
+    <string-array name="pref_sort_values">
+        <item>@string/pref_sort_popularity_asc</item>
+        <item>@string/pref_sort_popularity_desc</item>
+        <item>@string/pref_sort_release_date_asc</item>
+        <item>@string/pref_sort_release_date_desc</item>
+        <item>@string/pref_sort_revenue_asc</item>
+        <item>@string/pref_sort_revenue_desc</item>
+        <item>@string/pref_sort_primary_release_date_asc</item>
+        <item>@string/pref_sort_primary_release_date_desc</item>
+        <item>@string/pref_sort_original_title_asc</item>
+        <item>@string/pref_sort_original_title_desc</item>
+        <item>@string/pref_sort_vote_average_asc</item>
+        <item>@string/pref_sort_vote_average_desc</item>
+        <item>@string/pref_sort_vote_count_asc</item>
+        <item>@string/pref_sort_vote_count_desc</item>
+    </string-array>
+</resources>
